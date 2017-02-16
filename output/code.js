@@ -65,8 +65,7 @@
 	var initial = _react2.default.createElement(
 	  'div',
 	  null,
-	  _react2.default.createElement(_Header2.default, null),
-	  'Hello World'
+	  _react2.default.createElement(_Header2.default, null)
 	);
 
 	_reactDom2.default.render(initial, document.querySelector("#app"));
@@ -21626,7 +21625,7 @@
 
 
 	// module
-	exports.push([module.id, "body {\n\tbackground-color: #000;\n\tcolor: #FFF;\n}\n\n.nav {\n\tmin-height: 48px;\n\tmargin-bottom: 16px;\n\tbackground-color: #F82672;\n\twidth: 100%;\n}\n\n.container-fluid {\n\tpadding-right: 16px;\n\tpadding-left: 16px;\n}\n\n.sections {\n\tdisplay: block;\n\tfloat: left;\n\theight: 48px;\n\tpadding-left: 0px;\n\tpadding-right: 0px;\n}\n\n.li-header {\n\tdisplay: block;\n\tfloat: left;\n\tpadding-right: 16px;\n\tpadding-left: 16px;\n\tcolor: #000;\n\tfont-size: 24px;\n\tmargin-top: 10px;\n}\n\n.li-page {\n\tdisplay: block;\n\tfloat: left;\n\tpadding-right: 16px;\n  \tpadding-left: 16px;\n}", ""]);
+	exports.push([module.id, "body {\r\n\tbackground-color: #000;\r\n\tcolor: #FFF;\r\n\tmargin: 0;\r\n}\r\n\r\n.nav {\r\n\tmin-height: 48px;\r\n\tmargin-bottom: 16px;\r\n\tbackground-color: #F82672;\r\n\twidth: 100%;\r\n}\r\n\r\n.container-fluid {\r\n\tpadding-right: 16px;\r\n\tpadding-left: 16px;\r\n}\r\n\r\n.sections {\r\n\tdisplay: block;\r\n\tfloat: left;\r\n\theight: 48px;\r\n\tpadding-left: 0px;\r\n\tpadding-right: 0px;\r\n}\r\n\r\n.li-header {\r\n\tdisplay: block;\r\n\tfloat: left;\r\n\tpadding-right: 16px;\r\n\tpadding-left: 16px;\r\n\tcolor: #000;\r\n\tfont-size: 24px;\r\n\tmargin-top: 10px;\r\n}\r\n\r\n.li-page {\r\n\tdisplay: block;\r\n\tfloat: left;\r\n\tpadding-right: 16px;\r\n  \tpadding-left: 16px;\r\n}", ""]);
 
 	// exports
 
